@@ -1,5 +1,6 @@
 README.txt for version 8.0 of Vim: Vi IMproved.
 
+Test to remove from history
 
 WHAT IS VIM?
 
